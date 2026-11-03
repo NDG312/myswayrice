@@ -1,0 +1,14 @@
+add_newline = false
+
+format = "[󰣇](#178eca)  $directory$character"
+
+[directory]
+home_symbol = "~"
+truncation_length = 3
+truncation_symbol = "…/"
+style = "#9399b2"
+format = "[$path]($style) "
+
+[character]
+success_symbol = "[❯](#94e2d5)[❯](#89b4fa)"
+error_symbol = "[❯❯](#f38ba8)"
