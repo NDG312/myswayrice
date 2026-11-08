@@ -222,7 +222,7 @@
 	"tooltip-format-wifi": "󰤨  {essid}\n IP: {ipaddr}\n󰒢  Singal: {signalStrength}%\n󰓅  {frequency} GHz",
 	"tooltip-format-ethernet": "󰈀  {ifname}\n IP: {ipaddr}",
 	"tooltip-format-disconnected": "Disconnected!",
-	"on-click": "nm-connection-editor"
+	"on-click": "bash ~/.config/rofi/wifi/wifinew.sh"
     },
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
