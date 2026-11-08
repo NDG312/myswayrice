@@ -1,1 +1,1 @@
-Sway, Waybar, Rofi, Foot, zsh, fastfetch, kanshi, babiti cursor
+Sway, Waybar, Rofi, Foot, zsh, fastfetch, kanshi, bibata cursor
